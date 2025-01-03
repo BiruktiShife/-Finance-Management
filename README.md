@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/BiruktiShife/-Finance-Management/blob/main/screenshots.png.png?raw=true)
 
 # Finance Management Dashboard
 
